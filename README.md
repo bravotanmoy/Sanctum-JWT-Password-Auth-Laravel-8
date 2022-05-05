@@ -7,4 +7,4 @@
 * [JWT](https://www.tutsmake.com/laravel-8-jwt-rest-api-authentication-example-tutorial/)
 * [Passport](https://laravel.com/docs/8.x/passport)
 
-> Documentation Links From Laravel
+Remember Laravel 9 use sanctum by default
